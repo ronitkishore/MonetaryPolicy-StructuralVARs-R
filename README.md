@@ -8,7 +8,7 @@ A wide variety of theoretical and empirical models have been employed to analyse
 
     [Data used in the project](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/Data/NIFTY.csv)
     
-    *This data is converted from daily frequency to monthly by using __XTS__ package in R.*
+    *This data is converted from daily frequency to monthly by using __XTS__ package in R.* [see script](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/R sctipts/data_clean.R)
 
     Data Source : [nse-india.com](http://nseindia.com/products/content/equities/indices/historical_index_data.htm)
 
@@ -16,7 +16,7 @@ A wide variety of theoretical and empirical models have been employed to analyse
 
     [Data used in the project](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/Data/MIBID.csv)
     
-    *This data is converted from daily frequency to monthly by using __XTS__ package in R.*
+    *This data is converted from daily frequency to monthly by using __XTS__ package in R.* [see script](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/R sctipts/data_clean.R)
 
     Data Source : [nse-india.com](http://www.nse-india.com/marketinfo/eod_information/bidbor.jsp)
 
@@ -24,7 +24,7 @@ A wide variety of theoretical and empirical models have been employed to analyse
 
     [Data used in the project](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/Data/Real_GDP.csv)
     
-    *This data is converted from annual frequency to monthly by using __XTS__ package in R.*
+    *This data is converted from annual frequency to monthly by using __data.table__ package in R.* [see script](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/R sctipts/data_clean.R)
 
     Data Source : [data.gov.in](data.gov.in)
 
@@ -32,10 +32,9 @@ A wide variety of theoretical and empirical models have been employed to analyse
 
     [Data used in the project](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/Data/inflation_CPI.csv)
     
-    *This data is converted from annual frequency to monthly by using __XTS__ package in R.*
+    *This data is converted from annual frequency to monthly by using __data.table__ package in R.* [see script](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/R sctipts/data_clean.R)
 
     Data Source : [inflation.eu](http://www.inflation.eu/inflation-rates/india/historic-inflation/cpi-inflation-india.aspx)
 
 
-Details and R script will be updated soon
- 
+Details and R scripts will be updated soon
