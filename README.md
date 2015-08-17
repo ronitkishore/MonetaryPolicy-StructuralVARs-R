@@ -5,13 +5,13 @@ A wide variety of theoretical and empirical models have been employed to analyse
 ##Data used:
 
  [Annual Data used in the project](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/Data/annual_data.csv)
-    
-    *This data for MIBID and NIFTY is converted from daily frequency to annualy by using __XTS__ package in R.* [see script](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/R sctipts/data_clean.R)
+ *The data for MIBID and NIFTY is converted from daily frequency to annualy by using __XTS__ package in R.*
+ [see script](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/R%20scripts/data_clean.R)
 
 
-  [Monthly Data used in the project](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/Data/monthly_data.csv)
-    
-    *This data for MIBID and NIFTY is converted from daily frequency to monthly by using __XTS__ package in R. and data for GDP and Inflation is converted from annual frequency to monthly using __XTS__ package in R. * [see script](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/R sctipts/data_clean.R)
+ [Monthly Data used in the project](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/Data/monthly_data.csv)
+ *This data for MIBID and NIFTY is converted from daily frequency to monthly by using __XTS__ package in R. and data for GDP and Inflation is converted from annual frequency to monthly using __XTS__ package in R.* 
+ [see script](https://github.com/ronitkishore/MonetaryPolicy-StructuralVARs-R/blob/master/R%20scripts/data_clean.R)
 
 
 1. Stock Index of India, which we've taken to be NIFTY.
